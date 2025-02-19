@@ -1,0 +1,5 @@
+tk
+mnemonic
+eth-account
+bip32utils
+requests
